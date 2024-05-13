@@ -1,0 +1,9 @@
+langchain
+chromadb
+fastapi
+sentence-transformers
+python-multipart
+pypdf
+ollama
+PyPDF2
+chainlit
